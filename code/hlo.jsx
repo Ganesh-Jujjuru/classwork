@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import './style.css'; // Import the CSS file
+import './styles.css'; // Import the CSS file
 
 const App = () => {
   const [counters, setCounters] = useState([
